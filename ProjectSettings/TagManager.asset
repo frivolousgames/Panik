@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - PlayerHitCollider
+  - EnemyHitCollider
+  - LightDamage
+  - MedDamage
+  - HeavyDamage
+  - Enemy
+  - Default Bullet
+  - PlatformBorder
+  - Spring
+  - PlayerSpringCollider
+  - SideSpring
+  - VCam
+  - EnterHouseButton
+  - Money
+  - SitCollider
+  - Item
+  - Hat
+  - HatIcon
+  - ItemPopUp
+  - EnterButtonSpawn
+  - Missile
+  - MissileArt
+  - BuyScreenSlotParent
+  - Canvas
+  - BuyController
+  - BuyConfirm
+  - AnimatedEnemies
+  - ConfirmBoxText
+  - InventoryCanvas
+  - MovingPlatformBorder
+  - SanityMeter
+  - Fore
+  - Mid
+  - Back
+  - CeilingCollider
+  - TalkTextBox
+  - PlayerInactiveContainer
+  - DeathCam
+  - MovingPlatform
+  - PhysicalCollider
+  - Wall
+  - PlayerLifeMeter
+  - Firebar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PlatformBorder
+  - Enemy
+  - EnemyBullet
+  - Bullet
+  - MovingPlatformBorder
+  - LiveZone
+  - Player
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: rocktiles
+    uniqueID: 3598835283
+    locked: 0

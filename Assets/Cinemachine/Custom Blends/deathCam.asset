@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36baaa8bdcb9d8b49b9199833965d2c3, type: 3}
+  m_Name: deathCam
+  m_EditorClassIdentifier: 
+  m_CustomBlends:
+  - m_From: '**ANY CAMERA**'
+    m_To: DeathCam
+    m_Blend:
+      m_Style: 4
+      m_Time: 0.3
+  - m_From: '**ANY CAMERA**'
+    m_To: HalluciphoneCam
+    m_Blend:
+      m_Style: 1
+      m_Time: 1.5
+  - m_From: HalluciphoneCam
+    m_To: '**ANY CAMERA**'
+    m_Blend:
+      m_Style: 1
+      m_Time: 1.5
+  - m_From: ShakeCam
+    m_To: CM vcam1
+    m_Blend:
+      m_Style: 0
+      m_Time: 0.9
+  - m_From: ShakeCam
+    m_To: ZoomCam
+    m_Blend:
+      m_Style: 0
+      m_Time: 2
+  - m_From: ZoomCam
+    m_To: ShakeCam
+    m_Blend:
+      m_Style: 3
+      m_Time: 1
+  - m_From: DoorZoomCam
+    m_To: BouldersCam
+    m_Blend:
+      m_Style: 1
+      m_Time: 1.2
+  - m_From: '**ANY CAMERA**'
+    m_To: SpringCam
+    m_Blend:
+      m_Style: 1
+      m_Time: 1
+  - m_From: SpringCam
+    m_To: '**ANY CAMERA**'
+    m_Blend:
+      m_Style: 1
+      m_Time: 1
+  - m_From: SpiderCam
+    m_To: '**ANY CAMERA**'
+    m_Blend:
+      m_Style: 1
+      m_Time: 1
+  - m_From: '**ANY CAMERA**'
+    m_To: SpiderCam
+    m_Blend:
+      m_Style: 1
+      m_Time: 1
+  - m_From: MainHallCam
+    m_To: '**ANY CAMERA**'
+    m_Blend:
+      m_Style: 1
+      m_Time: 1
+  - m_From: '**ANY CAMERA**'
+    m_To: MainHallCam
+    m_Blend:
+      m_Style: 1
+      m_Time: 1
+  - m_From: ZoomCam
+    m_To: CM vcam1
+    m_Blend:
+      m_Style: 1
+      m_Time: 1.5
+  - m_From: CM vcam1
+    m_To: ZoomCam
+    m_Blend:
+      m_Style: 1
+      m_Time: 1.5

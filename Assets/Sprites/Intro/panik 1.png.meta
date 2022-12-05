@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 954c755dc3fb451489d82250f1056961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8405930355893944488
+    second: panik 1_0
+  - first:
+      213: -6905271432479700307
+    second: panik 1_1
+  - first:
+      213: 215075092889031823
+    second: panik 1_2
+  - first:
+      213: -904188000768604431
+    second: panik 1_3
+  - first:
+      213: -6393095770177897183
+    second: panik 1_4
+  - first:
+      213: -1631237489116351220
+    second: panik 1_5
+  - first:
+      213: 5913925831852654284
+    second: panik 1_6
+  - first:
+      213: 695636606920119012
+    second: panik 1_7
+  - first:
+      213: 3105944246827110782
+    second: panik 1_8
+  - first:
+      213: 5077590001440126346
+    second: panik 1_9
+  - first:
+      213: 6362594990756592125
+    second: panik 1_10
+  - first:
+      213: 5405301482750885389
+    second: panik 1_11
+  - first:
+      213: 6329532771004835887
+    second: panik 1_12
+  - first:
+      213: -6438404658387397061
+    second: panik 1_13
+  - first:
+      213: 1099311147859953099
+    second: panik 1_14
+  - first:
+      213: -6005807496432461352
+    second: panik 1_15
+  - first:
+      213: 8938849141194307768
+    second: panik 1_16
+  - first:
+      213: 9071339342673929795
+    second: panik 1_17
+  - first:
+      213: -5222735979938190822
+    second: panik 1_18
+  - first:
+      213: -7929494528850386259
+    second: panik 1_19
+  - first:
+      213: 7349739499197855776
+    second: panik 1_20
+  - first:
+      213: 8389799273098857093
+    second: panik 1_21
+  - first:
+      213: -5374543492300048665
+    second: panik 1_22
+  - first:
+      213: -6463275921476302966
+    second: panik 1_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panik 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab346db9e5e954d9f0f11a7cd35f7b
+      internalID: -8405930355893944488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1099
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a49dc52f5027146a637d4b9aed814f
+      internalID: -6905271432479700307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_2
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1099
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca0891dabfc0d545a4317940dc56ed7
+      internalID: 215075092889031823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f8407f075c82499c83f36081e0db7
+      internalID: -904188000768604431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 942
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d6e4e8fe95cd4ea17cd65b6a007dd
+      internalID: -6393095770177897183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 942
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7402f6d01cb124d96bdd2ff97d1ba5
+      internalID: -1631237489116351220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4b9f0305d9ff4caede7d9914afbd8
+      internalID: 5913925831852654284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 785
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e912a777f43d0a4f886a8a670ab2fc0
+      internalID: 695636606920119012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_8
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 785
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcec461ce323e174990a86e18e473350
+      internalID: 3105944246827110782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd63c3f703ecd46b02e4d8175d0b9a
+      internalID: 5077590001440126346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 628
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be324ac9f1c249d4dbc81e2b3996f180
+      internalID: 6362594990756592125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_11
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 628
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2da956b76d6dd4fa032907ee9fa4b7
+      internalID: 5405301482750885389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572ea52a8960a64aa3adeb7b3023545
+      internalID: 6329532771004835887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_13
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 471
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9d30cedd580f48bcceb1f53c73ef8
+      internalID: -6438404658387397061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_14
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 471
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39c8648bb90bba4188d2a47350b4f79
+      internalID: 1099311147859953099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d918e9a78fdad94ea1ac671598ba1db
+      internalID: -6005807496432461352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 314
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f745bf3df209429065b50613f2549
+      internalID: 8938849141194307768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_17
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 314
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c88f62127a144da74bfe2ba900dbc
+      internalID: 9071339342673929795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32b339804e637a43ae3c1b64d5a2017
+      internalID: -5222735979938190822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 157
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3379f75ac93a418d8fd9ac4bc7dff
+      internalID: -7929494528850386259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_20
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 157
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0aef1a7d60b147804a8427e1df3ca
+      internalID: 7349739499197855776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea693aeb016bfc408529a3378800430
+      internalID: 8389799273098857093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb362a5d48531a48b1593bbfc24d2de
+      internalID: -5374543492300048665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panik 1_23
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 565
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a94d40fbd357f47b47e688a9a25e38
+      internalID: -6463275921476302966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46e58d7d95100434daa723d3551c82bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
